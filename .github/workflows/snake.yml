@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: Erickgleisson
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v2.1.3
