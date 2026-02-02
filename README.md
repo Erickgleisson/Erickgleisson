@@ -13,33 +13,4 @@
   <a href="https://instagram.com/programador_mg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-gleisson-417857277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-name: Generate Snake
-
-on:
-  schedule:
-    # Executa diariamente
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Generate Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: Erickgleisson
-          outputs: dist/snake.svg
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env
-
 ![Snake animation](https://github.com/Erickgleisson/Erickgleisson/blob/output/snake.svg)
