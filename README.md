@@ -1,12 +1,6 @@
-## 🏆 Conquistas
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Erickgleisson&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 👀 Visitantes
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Erickgleisson.Erickgleisson)
-
-## 📊 Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickgleisson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
