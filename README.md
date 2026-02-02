@@ -19,3 +19,6 @@
   <a href="https://instagram.com/programador_mg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-gleisson-417857277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ![Snake Animation](https://raw.githubusercontent.com/Erickgleisson/Erickgleisson/output/snake.gif)
+
+### 🏙️ Minha Cidade de Commits (3D)
+![GitHub Profile 3D](profile-3d-contrib/profile-green-animate.svg)
